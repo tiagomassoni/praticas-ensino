@@ -1,11 +1,11 @@
-# Práticas de Ensino
+# Prática de Ensino
 
 Site estático inicial em português do Brasil, pensado para publicação no GitHub Pages.
 
 ## Estrutura
 
 - `index.html`: página inicial com as seções principais
-- `styles.css`: estilos do site
+- `style.css`: estilos do site
 
 ## Publicação no GitHub Pages
 
@@ -16,5 +16,6 @@ Site estático inicial em português do Brasil, pensado para publicação no Git
 
 ## Edição
 
-Os textos podem ser alterados diretamente em `index.html`.
-As cores, fontes e espaçamentos estão centralizados em `styles.css`.
+O conteúdo publicado do site está centralizado em `index.html`.
+Os arquivos em `textos/*.md` são rascunhos/referências e não são renderizados automaticamente.
+As cores, fontes e espaçamentos estão centralizados em `style.css`.
