@@ -215,6 +215,11 @@ h2 {
   filter: none;
 }
 
+.timeline-card-active {
+  opacity: 1;
+  filter: none;
+}
+
 .timeline-card-featured::before {
   content: "";
   position: absolute;
